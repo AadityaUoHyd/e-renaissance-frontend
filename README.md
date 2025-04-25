@@ -2,6 +2,9 @@
 
 'e-Renaissance' is a modern web platform (build in MERN stack) designed to foster creativity, collaboration, and innovation for e-learning. It provides a seamless user experience for authentication, interaction, and content sharing for building society via education. With a sleek interface and responsive design, e-Renaissance empowers users to connect, learn, and grow within a vibrant digital community built for the future using those video lectures across all competetive exmas of India.
 
+# .env file
+VITE_SERVER_URL=http://localhost:5000
+
 # Major Pending works to do in future.
 1. Verify Email post signup. (its half done).
 2. Delete button for instructor to delete video courses.
